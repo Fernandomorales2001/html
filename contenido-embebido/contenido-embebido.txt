@@ -1,0 +1,22 @@
+Que es el contenido embebido?
+
+El contenido embebido es todo el contenido que nos traemos desde fuera
+
+Estos archivos son los que mas peso (tamaño) añaden a un sitio web
+
+los tipos mas conocidos son:
+* imagenes
+* audio 
+* video
+* iframes
+
+Imagenes
+Los formatos de imagenes para web los podemos clasificar en 2 tipos 
+* Vectoriales
+  * svg (recomendado siempre que se pueda)
+
+* Mapa de bits
+  * jpg
+  * png 8 y 24 (si se necesita transparencia)
+  * gif (si se necesita una imagen animada)
+  * webp (el formato que menos pasa)
